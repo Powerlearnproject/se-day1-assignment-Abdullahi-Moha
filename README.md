@@ -36,7 +36,6 @@ In the Deployment phase, the software is installed and made available to end use
 Maintenance
 The Maintenance phase begins once the software is in use. This phase focuses on addressing any issues that arise, making necessary updates, and implementing improvements based on user feedback. It involves monitoring the software’s performance, releasing patches to fix bugs, and adapting the software to meet evolving needs or changing environments. Maintenance ensures that the software remains functional, relevant, and effective throughout its lifecycle.
 
-
 **Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.**
 
 The Waterfall and Agile methodologies represent two different approaches to software development, each with distinct characteristics. 
