@@ -15,6 +15,7 @@ By focusing on user needs and incorporating feedback throughout the development 
 
 
 **Identify and describe at least three key milestones in the evolution of software engineering.**
+
 Structured Programming (1960s-1970s)
 Structured programming emerged as a critical advancement in coding practices during the 1960s and 1970s. It addressed the inefficiencies of early programming methods by advocating for a more organized approach to coding. Prior to this, programs were often written with numerous GOTO statements, leading to complex, tangled code that was difficult to manage and debug. Structured programming introduced clear control structures such as loops and conditionals, which made the code's flow more straightforward and readable. Additionally, it emphasized breaking down code into smaller, manageable functions or modules. This shift greatly improved code maintainability and clarity, setting the stage for more systematic software development practices.
 Object-Oriented Programming (1980s)
@@ -24,6 +25,7 @@ Agile methodologies emerged in the 1990s and 2000s as a response to the limitati
 
 
 **List and briefly explain the phases of the Software Development Life Cycle.**
+
 Requirement Analysis
 The Requirement Analysis phase is crucial for understanding what the software needs to accomplish. During this phase, developers and stakeholders gather detailed information about user needs, expectations, and constraints. This involves conducting interviews, surveys, and workshops to elicit requirements. The goal is to document these requirements clearly, creating a specification that outlines what the software must do. This phase sets the foundation for all subsequent phases by defining the problem and the desired outcomes.
 System Design
@@ -39,6 +41,7 @@ The Maintenance phase begins once the software is in use. This phase focuses on 
 
 **Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.**
 
+
 The Waterfall and Agile methodologies represent two different approaches to software development, each with distinct characteristics. 
 While Waterfall follows a linear and sequential process, Agile embraces an iterative and flexible approach. 
 In the Waterfall methodology, development proceeds through a series of well-defined phases requirement analysis, system design, implementation, testing, deployment, and maintenance while Agile focuses on iterative cycles or sprints, where each iteration results in a functional piece of software. 
@@ -49,12 +52,14 @@ While Waterfall offers predictability and structure, Agile provides flexibility 
 
 **Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.**
 
+
 Software Developer
 A Software Developer is responsible for writing, testing, and maintaining code based on design specifications. They build and integrate software components to create functional applications. Developers work closely with other team members to ensure the software meets the required standards and functionalities. They also troubleshoot and debug issues, document their code, and continuously seek to improve their skills and the technology stack they use.
 Quality Assurance (QA) Engineer
 A Quality Assurance (QA) Engineer focuses on testing the software to ensure it meets the required standards and functions correctly. They develop and execute test cases, identify and report defects, and collaborate with developers to fix issues. QA Engineers may also create automated tests to enhance testing efficiency. Their goal is to ensure that the software is reliable, performs well, and meets user expectations before it is released.
 Project Manager
 A Project Manager oversees the entire software development project, from planning and scheduling to execution and delivery. They define project goals, manage resources, and track progress to ensure that the project stays on budget and on time. Project Managers also handle risk management, communicate with stakeholders, and coordinate efforts among team members to ensure the project meets its objectives and quality standards.
+
 
 **Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.**
 Integrated Development Environments (IDEs)
@@ -64,6 +69,7 @@ Version Control Systems are essential for managing changes to source code over t
 
 
 **What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.**
+
 Managing Complexity
 Managing complexity in software projects involves handling intricate requirements and large codebases. To address this, engineers can use modular design, breaking down the system into smaller, manageable components. Applying design patterns helps in solving common problems with reusable solutions, and maintaining clear documentation aids in understanding and managing the system’s intricacies.
 Ensuring Code Quality
@@ -79,6 +85,7 @@ Security is vital to protect against vulnerabilities and data breaches. Followin
 
 
 **Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.**
+
 Unit Testing: This involves testing individual components or functions of the software in isolation. The goal is to ensure that each unit performs correctly on its own. It's typically automated and helps identify issues at the early stages of development.
 Integration Testing: This type tests the interaction between different units or modules. The aim is to ensure that combined components work together as expected. Integration tests can uncover issues in the way units interact, which might not be apparent during unit testing.
 System Testing: This is a comprehensive test of the complete and integrated software system. It verifies that the entire system meets the specified requirements. System testing evaluates the software's behavior and performance in a real-world scenario and includes various types of testing, such as functional, non-functional, and performance testing.
@@ -98,6 +105,7 @@ Crafting intuitive and user-friendly prompts can improve the overall interaction
 
 
 **Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**
+
 Vague Prompt: "Describe a nairobi city."
 Improved Prompt: "Describe the public transportation system in kenya, including its efficiency, coverage, and any notable features."
 Explanation: The improved prompt is more effective because it narrows down the topic to a specific aspect of the city (public transportation system) and details what to cover (efficiency, coverage, notable features). This precision helps guide the response, making it more relevant and informative.
